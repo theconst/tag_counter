@@ -1,0 +1,4 @@
+pyaml>3.13
+sqlalchemy>1.2
+matplotlib==2.2.3
+validators>0.12
